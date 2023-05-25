@@ -1,0 +1,15 @@
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\bin\Debug\LoginSys.exe.config
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\bin\Debug\LoginSys.exe
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\bin\Debug\LoginSys.pdb
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.csprojResolveAssemblyReference.cache
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\MainWindow.g.cs
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\App.g.cs
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys_MarkupCompile.cache
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys_MarkupCompile.lref
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\MainWindow.baml
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.g.resources
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.Properties.Resources.resources
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.csproj.GenerateResource.Cache
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.csproj.CoreCompileInputs.cache
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.exe
+D:\Data\C#\Prj WPF\LoginSys\LoginSys\obj\Debug\LoginSys.pdb
